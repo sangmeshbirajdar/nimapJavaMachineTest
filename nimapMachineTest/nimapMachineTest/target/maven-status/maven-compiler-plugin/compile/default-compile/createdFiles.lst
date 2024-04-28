@@ -1,0 +1,7 @@
+entity\Category.class
+dao\IProduct.class
+entity\Product.class
+controller\CategoryController.class
+com\project\main\nimapMachineTest\NimapMachineTestApplication.class
+controller\ProductController.class
+dao\ICategory.class
